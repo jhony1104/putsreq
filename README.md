@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/phstc/putsreq.svg)](https://travis-ci.org/phstc/putsreq)
-[![Code Climate](https://codeclimate.com/github/phstc/putsreq/badges/gpa.svg)](https://codeclimate.com/github/phstc/putsreq)
-[![Test Coverage](https://codeclimate.com/github/phstc/putsreq/badges/coverage.svg)](https://codeclimate.com/github/phstc/putsreq/coverage)
+This fork is on the last commit of [EvermeshSolutions/putsreq](https://github.com/EvermeshSolutions/putsreq) before it was taken private.
 
 ## PutsReq
 
